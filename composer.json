@@ -1,0 +1,34 @@
+{
+    "name": "dukt/oauth2-vimeo",
+    "description": "Vimeo OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dukt",
+            "email": "contact@dukt.net",
+            "homepage": "https://github.com/dukt"
+        }
+    ],
+    "keywords": [
+        "oauth",
+        "oauth2",
+        "client",
+        "authorization",
+        "authorisation",
+        "vimeo"
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "league/oauth2-client": "~1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "League\\OAuth2\\Client\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
