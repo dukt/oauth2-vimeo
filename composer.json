@@ -24,10 +24,5 @@
         "psr-4": {
             "Dukt\\OAuth2\\Client\\": "src/"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-        }
     }
 }
