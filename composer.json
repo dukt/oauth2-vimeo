@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "League\\OAuth2\\Client\\": "src/"
+            "Dukt\\OAuth2\\Client\\": "src/"
         }
     },
     "extra": {
