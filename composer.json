@@ -4,9 +4,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Dukt",
-            "email": "contact@dukt.net",
-            "homepage": "https://github.com/dukt"
+            "name": "Benjamin David",
+            "email": "ben@dukt.net",
+            "homepage": "https://github.com/benjamindavid"
         }
     ],
     "keywords": [
@@ -18,7 +18,7 @@
         "vimeo"
     ],
     "require": {
-        "league/oauth2-client": "~1.3"
+        "league/oauth2-client": "~1.0"
     },
     "autoload": {
         "psr-4": {
